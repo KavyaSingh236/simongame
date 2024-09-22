@@ -1,0 +1,36 @@
+body{
+   background:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsimon-game&psig=AOvVaw3COnY4tgCqBgutXJ_GFzbE&ust=1710958450466000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDi1Yf3gIUDFQAAAAAdAAAAABAE");
+    text-align: center;
+}
+.hs{
+    margin-left:90vh;
+    margin-top: -25px;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2.5em;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+.yellow{
+    background-color:#f99b45 ;
+}
+.red{
+    background-color:#d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color:#819ff9;
+}
+.flash{
+    background-color: white;
+}
